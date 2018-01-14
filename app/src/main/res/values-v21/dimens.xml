@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lectura">190dp</dimen>
+    <dimen name="lectura2">240dp</dimen>
+    <dimen name="paseo_start">50dp</dimen>
+</resources>
