@@ -75,7 +75,7 @@ import java.util.concurrent.ExecutionException;
 import static com.guidevoice.a000webhostapp.MakePhotoActivity.DEBUG_TAG;
 
 public class MainActivity extends AppCompatActivity implements TextToSpeech.OnInitListener{
-    protected static final String CLOUD_VISION_API_KEY = "AIzaSyDUawgOGXEALwlTLP67GG-jV9RHh-qH-Os";
+    protected static final String CLOUD_VISION_API_KEY = "";
     public static final String FILE_NAME = "temp.jpg";
     protected static final String ANDROID_CERT_HEADER = "X-Android-Cert";
     protected static final String ANDROID_PACKAGE_HEADER = "X-Android-Package";
